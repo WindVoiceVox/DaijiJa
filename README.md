@@ -38,10 +38,6 @@ N/A
 You can install with pip as usual.
 
 ```bash
-pip install DaijiJa
-
-or
-
 pip install git+<URL>
 ```
 
