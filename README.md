@@ -53,7 +53,7 @@ N/A
 You can install with pip as usual.
 
 ```bash
-pip install git+<URL>
+pip install git+https://github.com/WindVoiceVox/DaijiJa
 ```
 
 # Note
