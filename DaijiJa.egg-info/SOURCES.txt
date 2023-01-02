@@ -1,8 +1,0 @@
-setup.py
-DaijiJa/DaijiJa.py
-DaijiJa/__init__.py
-DaijiJa/daijija.py
-DaijiJa.egg-info/PKG-INFO
-DaijiJa.egg-info/SOURCES.txt
-DaijiJa.egg-info/dependency_links.txt
-DaijiJa.egg-info/top_level.txt
