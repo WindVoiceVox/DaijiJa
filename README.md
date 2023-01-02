@@ -44,6 +44,8 @@ print(DaijiJa.daiji(123456, charlist='0123456789jhsmo')) # 1j2m3s4h5j6
 
 # Requirement
 
+前提となるモジュールはありません。標準機能だけで動作します。
+
 N/A
 
 # Installation
