@@ -27,6 +27,21 @@ print(DaijiJa.daiji(123456,mode=2)) # 壹拾貳万參千四百五拾六
 print(DaijiJa.daiji(123456,mode=3)) # 壹拾貳萬參仟肆佰伍拾陸
 ```
 
+modeごとのそれぞれの漢数字表記は以下の通りです。
+
+| mode | 使用される文字列 |
+| ---- | ---- |
+| 1(default)  | 零壱弐参四五六七八九拾百千万億 |
+| 2 | 零壹貳參四五六七八九拾百千万億 |
+| 3 | 零壹貳參肆伍陸漆捌玖拾佰仟萬億 |
+
+引数charlistを使用して、表記をカスタマイズすることもできます。
+
+```python
+import DaijiJa
+print(DaijiJa.daiji(123456, charlist='0123456789jhsmo')) # 1j2m3s4h5j6
+```
+
 # Requirement
 
 N/A
